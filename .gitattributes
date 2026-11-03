@@ -1,0 +1,2 @@
+# Binary assets committed directly — Vercel does not resolve Git LFS pointers.
+*.png -text
